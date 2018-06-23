@@ -13,6 +13,7 @@ namespace CHARS.ERP.WHM.WCF
     [ServiceContract]
     public interface IService1
     {
+        //tts
 
         [OperationContract]
         string GetData(int value);
