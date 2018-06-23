@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="CHARS.ERP.WHM.WCF.Sys" CodeBehind="Sys.svc.cs" %>
