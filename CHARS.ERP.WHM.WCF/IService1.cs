@@ -25,6 +25,7 @@ namespace CHARS.ERP.WHM.WCF
               BodyStyle = WebMessageBodyStyle.Bare,
                UriTemplate = "getLoginUser")]
         string getLoginUser();
+        //test
 
 
         // TODO: Add your service operations here
